@@ -35,9 +35,10 @@ void bubbleSort(int[] arr) {
 
 ### 그림으로 간단히 이해하기
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfb14280-d966-49f5-b028-fc2ea18d41d9/bubble-sort-001.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bfb14280-d966-49f5-b028-fc2ea18d41d9/bubble-sort-001.gif)
+![bubble-sort-001](https://user-images.githubusercontent.com/70262329/103191787-96538c80-4919-11eb-867a-6f8af09099c1.gif)
 
-출처 : https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/거품 정렬 (Bubble Sort).md#거품-정렬-bubble-sort
+
+출처 : https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/거품정렬
 
 ### 시간복잡도
 
