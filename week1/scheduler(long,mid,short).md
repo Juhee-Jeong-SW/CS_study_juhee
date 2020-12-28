@@ -1,8 +1,8 @@
 # 스케줄러의 종류 (장기, 중기, 단기)와 특성
 
-<pre> 프로세스를 스케줄링하기 위한 Queue에는 세 가지 종류가 존재한다. Job Queue : 현재 시스템 내에 있는 모든 프로세스의 집합 
-Ready Queue : 현재 메모리 내에 있으면서 CPU를 잡아서 실행되기를 기다리는 프로세스의 집합 
-Device Queue : Device I/O 작업을 대기하고 있는 프로세스의 집합
+<pre>프로세스를 스케줄링하기 위한 Queue에는 세 가지 종류가 존재한다. <br/>Job Queue : 현재 시스템 내에 있는 모든 프로세스의 집합 <br/>
+Ready Queue : 현재 메모리 내에 있으면서 CPU를 잡아서 실행되기를 기다리는 프로세스의 집합 <br/>
+Device Queue : Device I/O 작업을 대기하고 있는 프로세스의 집합<br/>
 각 Queue에 프로세스들을 넣고 빼주는 스케줄러에도 크게 세 가지 종류가 존재한다 </pre>
 
 # 📌 장기스케줄러
@@ -52,6 +52,7 @@ CPU와 메모리 사이의 스케줄링 담당
 
 ## + 프로세스 상태
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53069d69-5461-40b4-ae73-0f4a4c8838fe/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/53069d69-5461-40b4-ae73-0f4a4c8838fe/.png)
+![다운로드](https://user-images.githubusercontent.com/70262329/103193433-c9991a00-491f-11eb-9dcf-869f0eb30ffe.png)
+
 
 사진 출처 : https://kosaf04pyh.tistory.com/191
