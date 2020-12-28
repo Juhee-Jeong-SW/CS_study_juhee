@@ -12,5 +12,5 @@
 
 | 진행차수 | 마감날짜       | 키워드(제출완료여부)                                                  |
 | -------- | ---------- | ------------------------------------------------------- |
-| 과제1    | 2020-12-28 | **1. [array vs linked list](https://github.com/Juhee-Jeong-SW/CS_study_juhee/blob/main/week1/array_vs_linkedList.md)** ✅ <br /> **2. Get/Post<br />** **3. 스케줄러<br />** **4. 거품정렬** |
+| 과제1    | 2020-12-28 | **1. [array vs linked list](https://github.com/Juhee-Jeong-SW/CS_study_juhee/blob/main/week1/array_vs_linkedList.md)** ✅ <br /> **2. Get/Post<br />** **3. 스케줄러<br />** **4. [거품정렬](https://github.com/Juhee-Jeong-SW/CS_study_juhee/blob/main/week1/bubble_sort.md)** ✅ |
 |          |            |                                                         |
