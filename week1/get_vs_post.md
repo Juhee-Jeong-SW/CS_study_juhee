@@ -10,9 +10,8 @@
 - 보안이 필요한 데이터에는 적절하지 않음 (url에 그대로 노출) ex) password
 
 <pre>
-
-[www.example-url.com/resources?name1=value1&name2=value2](http://www.example-url.com/resources?name1=value1&name2=value2)
-
+예시)
+www.example-url.com/resources?name1=value1&name2=value2
 </pre>
 
 # GET vs POST
@@ -25,7 +24,6 @@
 - GET 방식보다는 데이터의 크기가 큼. (대용량 데이터 전송 가능)
 - GET 방식보다 보안 측면에서 낫다. ( but 암호화하지 않는 이상 비슷비슷.. )
 - 요청 헤더의 Content-Type에 요청 데이터의 타입을 표시해야 함.
-- 
 
 # 📌 GET vs POST
 
