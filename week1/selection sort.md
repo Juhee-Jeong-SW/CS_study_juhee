@@ -38,7 +38,7 @@ void selectionSort(int[] arr) {
 
 ### 그림으로 간단히 이해하기
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3fba417-67b1-407b-a30c-0de2aa2b313a/selection-sort-001.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d3fba417-67b1-407b-a30c-0de2aa2b313a/selection-sort-001.gif)
+![selection-sort-001](https://user-images.githubusercontent.com/70262329/103340526-a4471000-4ac7-11eb-8d5a-ac68e9070df1.gif)
 
 출처 : https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/선택 정렬 (Selection Sort).md#선택-정렬-selection-sort
 
