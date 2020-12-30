@@ -32,7 +32,7 @@
 
 ## 📌 TCP vs UDP
 
-![스크린샷 2020-12-30 오후 5.49.47](/Users/juheejeong/Library/Application Support/typora-user-images/스크린샷 2020-12-30 오후 5.49.47.png)
+<img width="676" alt="스크린샷 2020-12-30 오후 5 52 32" src="https://user-images.githubusercontent.com/70262329/103340611-d0629100-4ac7-11eb-9d6e-0cc7c4f2675f.png">
 
 
 
