@@ -56,7 +56,8 @@ private static void sort(int[] arr) {
 
 ### 그림으로 간단히 이해하기
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad043b0-3c55-4471-9671-d31c0569aa5f/insertion-sort-001.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aad043b0-3c55-4471-9671-d31c0569aa5f/insertion-sort-001.gif)
+![insertion-sort-001](https://user-images.githubusercontent.com/70262329/103495110-f5b31e80-4e7c-11eb-9774-60f723574347.gif)
+
 
 출처 : https://github.com/GimunLee/tech-refrigerator/blob/master/Algorithm/삽입 정렬 (Insertion Sort).md#삽입-정렬-insertion-sort
 
@@ -94,11 +95,9 @@ private static void sort(int[] arr) {
 ### 결론
 
 ```html
-<pre>
 Selection과 Insertion은 K번째 반복 이후, 첫번째 K 요소가 정렬된 순서로 온다는 점에서 유사.
 하지만,
 Selection Sort는 K+1번째 요소를 찾기 위해 나머지 모든 요소들을 탐색하지만
 Insertion Sort는 K+1번째 요소를 배치하는 데 필요한 만큼의 요소만 탐색하기 때문에 훨씬 더 효율적으로 실행된다는 차이가 있음.
-</pre>
 ```
 
