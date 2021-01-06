@@ -1,8 +1,7 @@
 # 프로세스 vs 스레드
 
 ## 📌 프로세스
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edc2a7ad-b089-48ac-aafc-8e1b2a0a6544/process.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/edc2a7ad-b089-48ac-aafc-8e1b2a0a6544/process.png)
+![process](https://user-images.githubusercontent.com/70262329/103772181-6cfad500-506c-11eb-879b-6e232a5f0bb6.png)
 
 - 프로그램을 메모리 상에서 실행중인 작업
 
@@ -41,8 +40,8 @@
   - 어카운팅 정보 : 사용된 CPU 시간, 시간 제한, 계정 정보 등
 
 ## 📌 스레드
+![스레드](https://user-images.githubusercontent.com/70262329/103772189-6ff5c580-506c-11eb-9cb6-0aa016244305.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8373bd94-0cab-448a-9513-4e45613db153/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8373bd94-0cab-448a-9513-4e45613db153/.png)
 
 - 프로세스의 실행 단위
 
