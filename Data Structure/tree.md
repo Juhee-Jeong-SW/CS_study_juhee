@@ -20,8 +20,7 @@
 - 루트 노드를 제외한 모든 노드는 단 하나의 부모 노드만을 가짐.
 
 ### 구성 요소
-
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caccc3b1-b388-4658-9951-d8801adc5b55/tree.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/caccc3b1-b388-4658-9951-d8801adc5b55/tree.png)
+![tree그림](https://user-images.githubusercontent.com/70262329/103750211-cef61300-5049-11eb-988c-28833e908737.png)
 
 - 노드(Node) : 트리를 구성하고 있는 각각의 요소
 - 간선(Edge) : 트리를 구성하기 위해 노드와 노드를 연결하는 선
@@ -55,8 +54,8 @@
     - 왼쪽이 비어있고, 오른쪽이 들어가있으면 완전 이진 트리 X
 
   - 편향 이진 트리(Skewed Binary Tree) : 모든 노드가 부모의 왼쪽 자식이기 때문에 왼쪽으로 편향되어 이거나 모든 노드가 부모의 오른쪽 자식이기 때문에 오른쪽으로 편향되어 있는 이진트리
+![이진트리종류](https://user-images.githubusercontent.com/70262329/103750214-d0274000-5049-11eb-8be9-e61f7d45dae6.png)
 
-![https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cb34403-eef1-40c8-8d10-4c10fe07707a/.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cb34403-eef1-40c8-8d10-4c10fe07707a/.png)
 
 사진 출처 : https://github.com/WooVictory/Ready-For-Tech-Interview/blob/master/Data Structure/[Data Structure] Tree.md
 
