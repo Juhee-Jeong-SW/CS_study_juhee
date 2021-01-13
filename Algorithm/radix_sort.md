@@ -21,25 +21,25 @@
 
 ### 그림으로 이해하기
 
-https://t1.daumcdn.net/cfile/tistory/99A6D33359CE331015
+![1](https://user-images.githubusercontent.com/70262329/104424927-5d771100-55c3-11eb-94f5-a446426a01d2.png)
 
 **아래의** **8개 데이터에 대하여 기수 정렬을 시도해 보겠습니다. 위의 그림과 같이 각 숫자에 해당하는 Queue공간을 할당하고 진행합니다.**
 
-https://t1.daumcdn.net/cfile/tistory/9957483359CE33AB14
+![2](https://user-images.githubusercontent.com/70262329/104424935-5ea83e00-55c3-11eb-91c7-5cba652df8e5.png)
 
 **먼저 1의 자리 숫자부터 시도를 합니다. 데이터 순서대로 각 1의 자리에 해당되는 Queue에 데이터가 들어가게 됩니다. 15같은 경우는 1의 자리가 5이므로 Queue 5에 들어가는 방식입니다.**
 
-https://t1.daumcdn.net/cfile/tistory/990D3A3359CE34472B
+![3](https://user-images.githubusercontent.com/70262329/104424937-5f40d480-55c3-11eb-80c0-993013eada2c.png)
 
 **위의 그림처럼** **다시 0번 Queue부터 차례대로 데이터를 가지고 와서 원래의 배열에 넣어주게 됩니다.**
 
 **1의 자리에 대한 정렬이 완료되었습니다. 다음으로는 10의 자리에 대하여 같은 작업을 반복합니다.**
 
-https://t1.daumcdn.net/cfile/tistory/9913633359CE34C223
+![4](https://user-images.githubusercontent.com/70262329/104424939-5f40d480-55c3-11eb-9d1c-e29416674b59.png)
 
 **마찬가지로 각 데이터의 10의 자리에 해당되는 Queue에 데이터를 위치 시킵니다. 그런 다음 0번 Queue부터 차례대로 다시 데이터를 가지고 옵니다.**
 
-https://t1.daumcdn.net/cfile/tistory/99C8DB3359CE35D412
+![5](https://user-images.githubusercontent.com/70262329/104424943-5fd96b00-55c3-11eb-8605-b7631fb36b0c.png)
 
 **최종적으로 정렬이 완료가 됩니다.**
 
